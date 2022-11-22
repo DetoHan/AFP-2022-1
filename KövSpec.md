@@ -21,3 +21,7 @@ A megrendelő fő víziója egy olyan weboldal létrehozása, ahol az edzőterem
 
 
 ## 6. Követelménylista
+
+ID|Verzió|Név|Kifejtés
+--|------|---|--------
+K01|V1.0|Bejelentkezési felület|Bejelentkezés email cím és jelszó megadásával
