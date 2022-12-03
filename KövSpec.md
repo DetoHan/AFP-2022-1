@@ -41,7 +41,7 @@ D-->A;
 ```
 
 ## 5. A rendszerre vonatkozó szabályok
-
+ - General Data Protection Regulation (Általános adatvédelmi rendelet)
 
 ## 6. Követelménylista
 
