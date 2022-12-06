@@ -1,6 +1,6 @@
 <?php
 
-$webCim = 'Kezdőoldal';
+$webCim = 'Funkcionális Edzés';
 
 ?>
 
@@ -14,7 +14,7 @@ $webCim = 'Kezdőoldal';
     <?php if(!empty($webCim)): ?>
         <title><?php echo $webCim ?></title>
     <?php else: ?>
-        <title>A webolal címe nincs beállítva ! Pótold</title>
+        <title>A funkcionális edzésterv</title>
     <?php endif; ?>
 </head>
 <body>
@@ -28,4 +28,8 @@ $webCim = 'Kezdőoldal';
                 <a href="">nav4</a>
             </nav>
         </header>
+        <main>
+        <?php if (!empty($webCim)): ?>
+            <h2><?php echo $webCim; ?></h2>
+        <?php endif; ?>
     
