@@ -1,6 +1,6 @@
 <?php 
-$webCim = 'nav3';
-$page = 'nav3';
+$webCim = 'nav4';
+$page = 'nav4';
 include './inc/header.inc.php'; 
 ?>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac scelerisque metus, nec iaculis tellus. Ut a dolor laoreet, luctus purus vitae, faucibus ante. Aenean volutpat dolor quis nulla ornare, in cursus erat mattis.</p>
