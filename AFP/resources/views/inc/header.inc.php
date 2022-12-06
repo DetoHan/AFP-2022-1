@@ -24,7 +24,7 @@ $webCim = 'Funkcionális Edzés';
                 <a href="../home.blade.php">Kezdőoldal</a>
                 <a href="../nav1.php">nav1</a>
                 <a href="../nav2.php">nav2</a>
-                <a href="">nav3</a>
+                <a href="../nav3.php">nav3</a>
                 <a href="">nav4</a>
             </nav>
         </header>
