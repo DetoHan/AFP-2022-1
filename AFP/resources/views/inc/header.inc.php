@@ -1,3 +1,10 @@
+<?php
+
+$webCim = 'Kezdőoldal';
+
+?>
+
+
 <!DOCTYPE html>
 <html lang="hu">
 <head>
@@ -11,6 +18,14 @@
     <?php endif; ?>
 </head>
 <body>
+        <header>
+            <h1>A funkcionális Edzés</h1>
+            <nav>
+                <a href=""></a>
+                <a href=""></a>
+                <a href=""></a>
+                <a href=""></a>
+                <a href=""></a>
+            </nav>
+        </header>
     
-</body>
-</html>
