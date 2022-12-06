@@ -21,11 +21,11 @@ $webCim = 'Kezdőoldal';
         <header>
             <h1>A funkcionális Edzés</h1>
             <nav>
-                <a href=""></a>
-                <a href=""></a>
-                <a href=""></a>
-                <a href=""></a>
-                <a href=""></a>
+                <a href="">Kezdőoldal</a>
+                <a href="">nav1</a>
+                <a href="">nav2</a>
+                <a href="">nav3</a>
+                <a href="">nav4</a>
             </nav>
         </header>
     
