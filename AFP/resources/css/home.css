@@ -70,4 +70,9 @@ nav a {
     margin: 1rem 1rem 0 0;
     border: 1px solid gray;
     border-radius: 5px;
+    color: var(--text) !important;
+    display: inline-block;
+    padding: .1rem 1rem;
+    text-decoration: none;
+    transition: .4s;
 }
