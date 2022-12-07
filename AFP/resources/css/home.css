@@ -52,5 +52,5 @@ header{
 }
 header h1, 
 header p {
-    
+    margin: 0;
 }
