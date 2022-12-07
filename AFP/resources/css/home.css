@@ -37,5 +37,16 @@ body{
     overflow-wrap: break-word;
 }
 header{
-    
+  background: var(--accent-bg);
+  background-image: linear-gradient(red,white,green);
+  border-bottom: 1px solid var(--border);
+  text-align: center;
+  padding: 2rem .5rem;
+  width: 100vw;
+  position: relative;
+  box-sizing: border-box;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
 }
