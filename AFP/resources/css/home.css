@@ -121,3 +121,12 @@ h1 {
     font-size: calc(var(--base-fontsize) / var(--header-scale));
     margin-top: calc(var(--line-height) * 1.5rem);
   }
+  a,
+a:visited {
+  color: blue;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
