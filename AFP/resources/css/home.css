@@ -76,3 +76,7 @@ nav a {
     text-decoration: none;
     transition: .4s;
 }
+nav a:hover {
+    color:red !important;
+    border-color: green;
+}
