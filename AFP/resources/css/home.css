@@ -148,14 +148,24 @@ table {
     width: 100%;
     margin: 1.5rem 0;
   }
-  td,
-  th {
+td,
+th {
     border: 1px solid var(--border);
     text-align: left;
     padding: .5rem;
   }
   
-  th {
+th {
     background: var(--accent-bg);
     font-weight: bold;
   }
+tr:nth-child(even) {
+  
+    background: var(--accent-bg);
+  }
+  
+table caption {
+    font-weight: bold;
+    margin-bottom: .5rem;
+  }
+  
