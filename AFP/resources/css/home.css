@@ -129,4 +129,17 @@ a:visited {
 a:hover {
   text-decoration: none;
 }
-
+a button,
+button,
+input[type="submit"]
+input[type="reset"]
+input[type="button"] {
+    border: none;
+    border-radius: 5px;
+    background: var(--accent);
+    font-size: 1rem;
+    color: var(--bg);
+    padding: .7rem .9rem;
+    margin: .5rem 0;
+    transition: .4s;
+}
