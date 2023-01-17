@@ -54,6 +54,12 @@ D-->A;
 
 ## 4. Igényelt üzleti folyamatok
 
+4.1.	Az edzőterembe járó tagsági díjat fizető tagok adatainak a nyilvántartása.</br>
+&nbsp;4.1.1.	Új tag regisztrálása: A helyi recepciós végzi el a munkafolyamatot.  => központi adatbázisba való adatfelvitel.</br>
+&nbsp;4.1.2.	Tagsági díj megszüntetése: A lejárt tagsági díj lejártával a recepciós deaktiválja a sorszámát => központi adatbázisban átállítja a jogosultságát.</br>
+&nbsp;4.1.3.	Napi díjat fizető sportoló regisztrálása: A recepciós végzi el ezt a munkafolyamatot=>  Minimális regisztráció elvégzése=> központi adatbázisba regisztrálja => tulajdonos szeretné látni, hogy mennyi a napi díjat fizető vendég stb...</br>
+
+
 ```mermaid
 flowchart TD;
 A("A sportoló vásárol egy edzőterem bérletet");
