@@ -13,6 +13,14 @@ A korlátozások alatt az edzők különböző felületeken próbálták megoszt
 ## 2. Megrendelői vízió (vágyálom)
 
 A megrendelő a jelenlegi weboldallal az a célja, hogy a vállalkozásának a szolgáltatási színvonalát javítsa, illetve az általa foglakoztatott személyi edzők számát redukálja, mert az élő munkára rakódó közteher évről évre nő és ezáltal szeretné a költségeit csökkenteni, optimalizálni.
+A bejelentkezés után a felhasználó rögtön egy igényes webfelülettel találkozna. 3 navigációs lehetősséggel.
+
+•	Videók
+•	Edzéstervek
+•	Diéták
+
+A rendszergazdai oldalról viszont lehetőséget biztosítanák videók, képek feltöltésére és módosítására.
+
 
 ## 3. Jelenlegi üzleti folyamatok
 
