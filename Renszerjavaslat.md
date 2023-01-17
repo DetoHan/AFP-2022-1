@@ -39,4 +39,6 @@ Szerplők (Actor):</br>
 &ensp;o	Helyre állítás</br>
 &ensp;o	Tartalom feltöltés</br>
 
+## 9 Ütemterv/Árajánlat
 
+Az árajánlat az Árajánlat.txt fájl tartalmazza
