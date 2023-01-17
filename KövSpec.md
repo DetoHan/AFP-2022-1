@@ -27,6 +27,10 @@ aki érvényes bérlettel rendelkezik ne csak ott tudjon edzeni ahol kiváltotta
 
 ## 3. Jelenlegi üzleti folyamatok
 
+3.1	Az edzőterembe járó tagsági díjat fizető tagok adatainak a nyilvántartása</br>
+ &nbsp; 3.1.1.	Új tag regisztrálása: A helyi recepciós végzi el a munkafolyamatot.  => lokális adatbázisba való adatfelvitel</br>
+ &nbsp; 3.1.2.	Tagsági díj megszüntetése: A lejárt tagsági díj lejártával a recepciós deaktiválja a sorszámát => lokális adatbázisban átállítja a jogosultságát.</br>
+ &nbsp; 3.1.3. Napi díjat fizető sportoló regisztrálása: A recepciós végzi el ezt a munkafolyamatot=>  Minimális regisztráció elvégzése 
 ```mermaid
 flowchart TD;
 A("A sportoló vásárol egy edzőterem bérletet");
