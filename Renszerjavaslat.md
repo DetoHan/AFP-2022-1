@@ -22,5 +22,21 @@ Ezen pont részletesen a Funkcionális specifikációban van kidolgozva
 
 Ezen pont részletesen a Funkcionális specifikációban van kidolgozva
 
+## 7 Látványterv
+
+A látványterv a látványterv mappában van benne
+
+## 8 Használati esetek
+
+Szerplők (Actor):</br>
+&nbsp;•	Felhasználó (Sportoló):</br>
+&ensp;o	Regisztráció</br>
+&ensp;o	Belépés (Login)</br>
+&ensp;o	Kilépés(Log out)</br>
+&nbsp;•	Rendszergazda (Admin):</br>
+&ensp;o	Fájlfeltöltés</br>
+&ensp;o	Biztonsági mentés</br>
+&ensp;o	Helyre állítás</br>
+&ensp;o	Tartalom feltöltés</br>
 
 
