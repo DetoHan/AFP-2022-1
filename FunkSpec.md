@@ -57,7 +57,19 @@ B-->C;
 C-->D;
 D-->A;
 ```
+### Adatbázis szemszögből
 
+```mermaid
+flowchart TD;
+A("A sportoló vásárol egy edzőtermi bérletet");
+B("A recepciós felviszi az adatait a központi adatbázsba");
+C("A sportoló abba az edzőterembe járhat amelyikbe szeretne, mert adatai központilag lekérdezhető");
+D("A tulajdonos teljes riportot készíthet, hiszen minden adat 1 helyen van.");
+A-->B;
+B-->C;
+C-->D;
+D-->A;
+```
 ### 6. Követelménylista 
 
 ID|Verzió|Név|Kifejtés
