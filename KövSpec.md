@@ -89,4 +89,5 @@ K07|V1.0|Feltölthetőségi funkció|Itt lehet a weboldalra videót és képet f
 
 ## 7. Irányított és szabad szöveges riportok szövege 
 
+A megrendelői igény az tárgyalás útján lett felmérve.
 
