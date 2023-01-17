@@ -86,3 +86,7 @@ K04|V1.0|Központi adatbázis létrehozása| Összes tag adatainak a tárolása
 K05|V1.0|Regisztrációs felület létrehozása|Itt lehet a tagokat felvinni az adatbázisba
 K06|V1.0|Jogosultsági felület létrehozása|Itt lehet a tagok egyébb jogosultságait módosítani az adatbázisban
 K07|V1.0|Feltölthetőségi funkció|Itt lehet a weboldalra videót és képet feltölteni
+
+## 7. Irányított és szabad szöveges riportok szövege 
+
+
