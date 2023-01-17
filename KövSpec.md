@@ -6,7 +6,9 @@
 A vállalkozás Magyarországon edzőterem hálózatot üzemeltet.
 Cégünket a partner 2021-ben kereste meg azzal a szándékkal, hogy készítsünk nekik egy olyan webfelületet, ahol az általuk elkészített edzésterveket, videóikat fel tudják tölteni.
 Mivel a megrendelő foglalkoztat dietetikusokat is ezért a táplálkozás tudomány is szerepet kapna a webfelületen.
-
+ Mivelaz elmúlt években többször be kellett zárni az edzőtermeket a vírushelyzettel kapcsolatos korlátozások miatt, ezért a tagok az edzéseiket otthon vagy más helyen végezték el sokszor segítség nélkül.
+A megrendelő ezért egy weboldalt szeretne cégünkkelmegcsináltatni, ahol egy helyen számos igény tudna kielégíteni.
+A korlátozások alatt az edzők különböző felületeken próbálták megosztani az edzésterveiket. A sportolóknak sokszor nem egyértelmű, hogy egy adott edzőtől mely linkeken elérhetőek a feltöltött videóik, illetve mely táplálkozási tanácsot és kitől fogadjanak el.
 
 ## 2. Megrendelői vízió (vágyálom)
 Fő víziónk egy olyan weboldal létrehozása, ahol az edzőterem használatára jogosultak hozzáférnek különböző edzési módszerekhez. Egységes felületet szeretnénk biztosítani az edzéstervek eléréséhez.
