@@ -16,9 +16,10 @@ Fontosabb szempontok:
  - Regisztráció / Bejelentkező funkció
  - Különböző jogosultságok a sportolóknak és az edzőknek
  - File-ok feltöltésének és szerkesztésének lehetősége (Edzéstervek, videók)
- - béla
+ - Központi adatbázis létrehozása
+ - Központi adatbázisból való lekérdezés lehetősége
 
-### 3. Jelenlegi üzleti folyamatok
+### 4. Jelenlegi üzleti folyamatok
 ```mermaid
 flowchart TD;
 A("A sportoló vásárol egy edzőterem bérletet");
@@ -31,7 +32,7 @@ C-->D;
 D-->A;
 ```
 
-### 4. Igényelt üzleti folyamatok
+### 5. Igényelt üzleti folyamatok
 ```mermaid
 flowchart TD;
 A("A sportoló vásárol egy edzőterem bérletet");
