@@ -12,6 +12,7 @@ Fontosabb szempontok:
  - Regisztráció / Bejelentkező funkció
  - Különböző jogosultságok a sportolóknak és az edzőknek
  - File-ok feltöltésének és szerkesztésének lehetősége (Edzéstervek, videók)
+ - béla
 
 ### 3. Jelenlegi üzleti folyamatok
 ```mermaid
