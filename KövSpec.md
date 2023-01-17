@@ -11,11 +11,8 @@ A megrendelő ezért egy weboldalt szeretne cégünkkelmegcsináltatni, ahol egy
 A korlátozások alatt az edzők különböző felületeken próbálták megosztani az edzésterveiket. A sportolóknak sokszor nem egyértelmű, hogy egy adott edzőtől mely linkeken elérhetőek a feltöltött videóik, illetve mely táplálkozási tanácsot és kitől fogadjanak el.
 
 ## 2. Megrendelői vízió (vágyálom)
-Fő víziónk egy olyan weboldal létrehozása, ahol az edzőterem használatára jogosultak hozzáférnek különböző edzési módszerekhez. Egységes felületet szeretnénk biztosítani az edzéstervek eléréséhez.
 
-Áttekinthető weboldalt szeretnénk, melyben a tervek könnyedén elérhetőek és szerkeszthetőek. Fontosnak tartjuk, hogy legyen regisztrációs felület az oldal eléréséhez. 
-
-Az edzőknek szükséges, hogy legyen jogosultsága az oldal tartalmának módosításához. A videók és tervezek bővítésére gyakran kerülhet sor, ugyanis minden ember más edzéstervet igényel. Ez függhet a kortól, súlytól és aktuális fizikai állapottól, valamint a sportolás céljától. 
+A megrendelő a jelenlegi weboldallal az a célja, hogy a vállalkozásának a szolgáltatási színvonalát javítsa, illetve az általa foglakoztatott személyi edzők számát redukálja, mert az élő munkára rakódó közteher évről évre nő és ezáltal szeretné a költségeit csökkenteni, optimalizálni.
 
 ## 3. Jelenlegi üzleti folyamatok
 
