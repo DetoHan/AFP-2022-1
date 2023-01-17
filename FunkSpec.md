@@ -4,12 +4,12 @@
 Egységes weboldal elkészítése amely központi adatbázisból lekérve azonosítja a tagok hozzáférési jogosultságát,illetve az edzőterembe járó tagok egyébb igyényeit ki tudja elégíteni(informálni).</br>
 A tulajdonos a központi adatbázison keresztül egy komplexebb képet kap tag létszámról, illetve a napi díjat fizető vendégek számáról.</br>
 A tulajdonos távolabbi célja a rendszerrel, hogy kevesebb személyi edzőt alkalmazzon, hiszen az edzéshez szükséges információ erről a weboldalról elérhető.</br>
-A tagok minden edzőtermet tudják használni, ne csak ott ahol bérletet vásároltak.
+A tagok minden edzőtermet tudják használni, ne csak ott ahol bérletet vásároltak.</br>
 ### 2. Jelenlegi helyzet leírása
 
-Az edzéstervek és videók különböző weboldalakra és alkalmazásokra vannak feltöltve.
+A jelenlegi helyzet rész a Követelmény Specifikációban van részletesen kidolgozva
 
-A sportolók vagy nem találják meg a korábban átküldött linkeket, vagy a megadott weboldalakon idő előtt eltűnnek a file-ok.
+
 ### 3. Vágyálom rendszer leírása
 Fontosabb szempontok:
  - Weboldal létrehozása (Laravel)
