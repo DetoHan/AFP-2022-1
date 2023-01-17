@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-
+use App\http\Controllers\UploadFile;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -16,7 +16,9 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
-
+Route::view('documents','documents');
+Route::view('upload','upload');
+Route::POST('upload',[UploadFile::class,'UploadFile']);
 Route::middleware([
     'auth:sanctum',
     config('jetstream.auth_session'),

@@ -21,27 +21,67 @@
         </style>
         
     </head>
-    <body class="antialiased">
-        <div 
-        
-        <div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center py-4 sm:pt-0">
-            @if (Route::has('login'))
-                <div class="hidden fixed top-0 right-0 px-6 py-4 sm:block">
-                    @auth
-                        <a href="{{ url('/dashboard') }}" class="text-sm text-gray-700 dark:text-gray-500 underline">Dashboard</a>
-                    @else
-                        <a href="{{ route('login') }}" class="text-sm text-gray-700 dark:text-gray-500 underline">Log in</a>
-
-                        @if (Route::has('register'))
-                            <a href="{{ route('register') }}" class="ml-4 text-sm text-gray-700 dark:text-gray-500 underline">Register</a>
-                        @endif
-                    @endauth
+<body class="antialiased">
+    <!DOCTYPE html>
+    <html>
+        <head>
+             
+            <!-- CSS property to place div
+                side by side -->
+            <style>
+                #leftbox {
+                    float:left;
+                    background:rgb(255, 255, 255);
+                    width:37%;
+                    height:280px;
+                }
+                #middlebox{
+                    float:left;
+                    background:rgb(243, 244, 246);
+                    width:25%;
+                    height:280px;
+                    text-align:center;
+                }
+                #rightbox{
+                    float:right;
+                    background:rgb(255, 255, 255);
+                    width:25%;
+                    height:280px;
+                }
+                h1{
+                    color:rgb(186, 199, 186);
+                    text-align:center;
+                }
+            </style>
+        </head>
+         
+        <body>
+            <div id = "boxes">
+                <h1>Dokumentumok, tervek</h1>
+                 
+                <div id = "leftbox">
+                    
+                    
                 </div>
-            @endif
+                 
+                <div id = "middlebox">
+                    
+                    <h1>File-ok feltöltése</h1>
+<form action="upload" method="POST" enctype="multipart/form-data">
+    @csrf
+    <input type="file" name="file"><br></br>
+    <button type="submit">Kész</button>
+</form>
+                </div>
+                 
+                <div id = "rightbox">
+                    
+                   
+                </div>
+            </div>
+        </body>
+    </html>   
 
-            
-        </div>
-        
 
-    </body>
-</html>
+</body>
+
