@@ -2,7 +2,10 @@
 
 
 ## 1. Jelenlegi helyzet
-A vállalkozás magyarországon egy edőterem hálózatot üzemeltet. Az elmúlt években többször be kellett zárnunk az edzőtermeket a vírushelyzettel kapcsolatos korlátozások miatt. Ebből adódóan fontosnak tartuk a mobilitást. A korlátozások alatt az edzők különböző felületeken próbálták megosztani az edzésterveiket. A sportolóknak nem egyértelmű, hogy adott edzőtől mely linkeken elérhetőek a feltöltött videóik.
+
+A vállalkozás Magyarországon edzőterem hálózatot üzemeltet.
+Cégünket a partner 2021-ben kereste meg azzal a szándékkal, hogy készítsünk nekik egy olyan webfelületet, ahol az általuk elkészített edzésterveket, videóikat fel tudják tölteni.
+Mivel a megrendelő foglalkoztat dietetikusokat is ezért a táplálkozás tudomány is szerepet kapna a webfelületen.
 
 
 ## 2. Megrendelői vízió (vágyálom)
