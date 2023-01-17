@@ -85,6 +85,20 @@ C-->D;
 D-->A;
 ```
 
+### Adatbázis szemszögből
+
+```mermaid
+flowchart TD;
+A("A sportoló vásárol egy edzőtermi bérletet");
+B("A recepciós felviszi az adatait a helyi adatbázsba");
+C("A sportoló csakis abba az edzőterembe járhat addíg amig le nem jár a bérlete");
+D("A tulajdonos csakis helyi riportot tud készíteni");
+A-->B;
+B-->C;
+C-->D;
+D-->A;
+```
+
 ## 5. A rendszerre vonatkozó szabályok
  - General Data Protection Regulation (Általános adatvédelmi rendelet)
 
