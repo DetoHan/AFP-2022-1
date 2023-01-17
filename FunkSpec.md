@@ -45,10 +45,14 @@ C-->D;
 D-->A;
 ```
 
-### 5. Követelménylista 
+### 6. Követelménylista 
 
 ID|Verzió|Név|Kifejtés
 --|------|---|--------
 K01|V1.0|Bejelentkezési felület|Bejelentkezés email cím és jelszó megadásával
 K02|V1.0|Kezdő weblaprész|Csak bejelentkezett felhasználóknak elérhető felület a tartalmak eléréséhez
 K03|V1.0|Különböző jogosultságok|Eltérő jogosultságok biztosítása az edzőknek és a sportolóknak a tartalom módosítására
+K04|V1.0|Központi adatbázis létrehozása| Összes tag adatainak a tárolása
+K05|V1.0|Regisztrációs felület létrehozása|Itt lehet a tagokat felvinni az adatbázisba
+K06|V1.0|Jogosultsági felület létrehozása|Itt lehet a tagok egyébb jogosultságait módosítani az adatbázisban
+K07|V1.0|Feltölthetőségi funkció|Itt lehet a weboldalra videót és képet feltölteni
