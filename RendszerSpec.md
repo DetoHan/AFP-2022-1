@@ -108,7 +108,7 @@ D-->A;
 
 ## 4.Követelménylista:
 
-Itt azon funkciók vannak felsorolva, amely el is fog készülni
+Itt azon funkciók vannak felsorolva, amely el is fog készülni.
 
 ID|Verzió|Név|Kifejtés
 --|------|---|--------
@@ -122,7 +122,6 @@ K07|V1.0|Feltölthetőségi funkció|Itt lehet a weboldalra videót és képet f
 
 ### 4.1 Törvényi Előírások, szabványok
 
-  ### Betartani az adatkezeléssel kapcsolatos törvényeket:
   *  2013 évi L. törvény az állami és önkormányzati szervek elektronikus információbiztonságáról 1. § </br>
   *  A weboldal minden részének megfeleltetése a W3C szabványnak </br>
 
@@ -133,6 +132,10 @@ K07|V1.0|Feltölthetőségi funkció|Itt lehet a weboldalra videót és képet f
 
 
 ![funkcionális terv](diagramm.png)
+
+### 5.2 Fizikai Környezet
+
+
 
 
 ## Bejelentkezett felhasználó által elérhető funkciók
