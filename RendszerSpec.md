@@ -46,6 +46,7 @@ ID|Tevékenység|Időtartam-tól|Időtartam-ig|Függőség
 * regisztráció
 * személyi edző idégnylése
 
+
 ### 3.1 Jelenlegi üzleti folyamatok
 
 Felhasználói szemszögből:
@@ -105,12 +106,20 @@ D-->A;
 ```
 
 
-## Funkcionális követelmények:
+## 4.Követelménylista:
 
-- Az oldal fő elemei csak bejelentkezett felhasználóknak elérhető
-- Videók, edzéstervek feltöltésének lehetősége bejelentkezett felhasználóknak
-- File-ok letöltésének lehetősége
-- File-ok rendezhetősége, szűrésének lehetősége különböző preferanciák alapján (ABC sorrend, Edzők alapján)
+Itt azon funkciók vannak felsorolva, amely el is fog készülni
+
+ID|Verzió|Név|Kifejtés
+--|------|---|--------
+K01|V1.0|Bejelentkezési felület|Bejelentkezés email cím és jelszó megadásával
+K02|V1.0|Kezdő weblaprész|Csak bejelentkezett felhasználóknak elérhető felület a tartalmak eléréséhez
+K03|V1.0|Különböző jogosultságok|Eltérő jogosultságok biztosítása az edzőknek és a sportolóknak a tartalom módosítására
+K04|V1.0|Központi adatbázis létrehozása| Összes tag adatainak a tárolása
+K05|V1.0|Regisztrációs felület létrehozása|Itt lehet a tagokat felvinni az adatbázisba
+K06|V1.0|Jogosultsági felület létrehozása|Itt lehet a tagok egyébb jogosultságait módosítani az adatbázisban
+K07|V1.0|Feltölthetőségi funkció|Itt lehet a weboldalra videót és képet feltölteni
+
 
 ## Bejelentkezett felhasználó által elérhető funkciók
 - Tartalmak elérése
