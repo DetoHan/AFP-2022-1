@@ -7,14 +7,14 @@ A cégünk kizárólag a weboldal és a hozzá kapcsolódó adatbázist készít
 
 ## 2. Projekt terv
 
-# 2.1 Humán erőforrás
+### 2.1 Humán erőforrás
 
-- 2 fő junior programozó // felelőségi kör kidolgozása
+- 2 fő junior programozó // felelőségi kör kidolgozása/megbeszélés
 - 1 fő senior programozó
 - 1 fő projekt manager
 - 1 fő Scrum master
 
-#  2.2 Ütemterv
+###  2.2 Ütemterv
 
 ID|Tevékenység|Időtartam-tól|Időtartam-ig|Függőség
 --|------|---|--------|------
@@ -30,6 +30,80 @@ ID|Tevékenység|Időtartam-tól|Időtartam-ig|Függőség
 - Laravel keretrendszer alkalmazása
 - Regisztráció / bejelentkezési lehetőség
 - Adatbázis használata
+
+## 3.Üzleti folyamatok modellje
+
+
+Üzleti szereplők
+* spotoló
+* személyi edző
+* alkalmazottak
+* tulajdonos
+
+Üzleti események:
+* napi jegy vásárlás
+* bérlet vásárlás
+* regisztráció
+* személyi edző idégnylése
+
+### 3.1 Jelenlegi üzleti folyamatok
+
+Felhasználói szemszögből:
+
+```mermaid
+flowchart TD;
+A("A sportoló vásárol egy edzőterem bérletet");
+B("A sportoló fizet egy személyi edzőknek \naz egyénileg meghatározott fizikai erőnlét elérésének elősegítéséhez");
+C("A személyi edzőnk felméri a sportolót \nés edzési tervet készít a korábban leegyeztetett cél elérése érdekében");
+D("Az edző feltölti a videókat és a tervezetet \negy általa szimpatikusnak választott webhelyre");
+A-->B;
+B-->C;
+C-->D;
+D-->A;
+```
+Adatbázis szemszögből:
+
+
+```mermaid
+flowchart TD;
+A("A sportoló vásárol egy edzőtermi bérletet");
+B("A recepciós felviszi az adatait a helyi adatbázsba");
+C("A sportoló csakis abba az edzőterembe járhat addíg amig le nem jár a bérlete");
+D("A tulajdonos csakis helyi riportot tud készíteni");
+A-->B;
+B-->C;
+C-->D;
+D-->A;
+```
+### 3.2 Igényelt üzleti folyamatok
+
+Felhasználói szemszögből
+
+```mermaid
+flowchart TD;
+A("A sportoló vásárol egy edzőterem bérletet");
+B("A sportoló fizet egy személyi edzőnknek \naz egyénileg meghatározott fizikai erőnlét elérésének elősegítéséhez");
+C("A személyi edzőnk felméri a sportolót \nés edzési tervet készít a korábban leegyeztetett cél elérése érdekében");
+D("Az edző feltölti a videókat és a tervezetet \naz egységes webfelületre");
+A-->B;
+B-->C;
+C-->D;
+D-->A;
+```
+Adatbázis szemszögből:
+
+```mermaid
+flowchart TD;
+A("A sportoló vásárol egy edzőtermi bérletet");
+B("A recepciós felviszi az adatait a központi adatbázsba");
+C("A sportoló abba az edzőterembe járhat amelyikbe szeretne, mert adatai központilag lekérdezhető");
+D("A tulajdonos teljes riportot készíthet, hiszen minden adat 1 helyen van.");
+A-->B;
+B-->C;
+C-->D;
+D-->A;
+```
+
 
 ## Funkcionális követelmények:
 
