@@ -125,6 +125,19 @@ K07|V1.0|Feltölthetőségi funkció|Itt lehet a weboldalra videót és képet f
   *  2013 évi L. törvény az állami és önkormányzati szervek elektronikus információbiztonságáról 1. § </br>
   *  A weboldal minden részének megfeleltetése a W3C szabványnak </br>
   
+## Képernyőtervek
+A képernyőtervek a figma software-el készülnek.
+
+Főbb oldalak:
+- **kezdolap**, amely minden felhasználó számára először jelenik meg.  
+
+- **belépés / regisztáció**. A kezdőlapon a kiválasztott gomb megnyomását követően érhetjük el.
+
+- **dashboard**, a már regisztrációval rendelkező és belépett felhasználóknak elérhető. Innen tudunk a weblap lényegesebb részeibe továbblépni(Feltöltés, dokumentumok letöltése, file-ok, videók)  
+
+- **dokumentumok**, file-ok felsorolva nevük és szerzőjük alapján elérhetőek és letölthetőek.   
+
+- **upload**, file-ok feltöltése az adatbázisba.  
 ### Forgatókönyvek
 A weboldal megnyitásával megjelenik a kezdőoldal. Ezen a felületen a cég főbb emblémái jelennek meg és egy bejelentkezés valamint regisztrációs gomb.
 Az oldal minden egyéb funkciója a belépést követően elérhető alábbiak szerint:
