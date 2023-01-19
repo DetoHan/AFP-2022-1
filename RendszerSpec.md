@@ -184,6 +184,13 @@ Táblák:
 
 ![Egyed kapcsolat diagramm](files_diagramm.png)
 
+## Implementációs terv
+A felhasználói felület HTML, CSS, JavaScript és Laravel blade sablonrendszeri technológiák felhasználásával készülnek. 
+Mysql adabázist használunk az adatok tárolására.
+
+## Tesztterv
+Amennyiben megfelelő eredményt kapunk, úgy a teszt jegyzőkönyben a feladat "success" eredmént kap, ellenkező esetben "failed" kimenetellel rögzítjük. Ezt követően a feljegyzett hibákat kijavítjuk és újabb teszteléseket végzünk.
+
 ## 5 Funkcionális Specifikációk
 
 ### 5.1 Funkcionális Terv
