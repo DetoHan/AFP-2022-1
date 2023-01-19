@@ -44,8 +44,10 @@ ID|Tevékenység|Időtartam-tól|Időtartam-ig|Függőség
 
 ## 3.Üzleti folyamatok modellje
 
+### 3.1 Üzleti szereplők
 
-Üzleti szereplők
+
+
 * spotoló
 * személyi edző
 * alkalmazottak
