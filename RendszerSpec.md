@@ -122,7 +122,7 @@ K07|V1.0|Feltölthetőségi funkció|Itt lehet a weboldalra videót és képet f
 
 ### 4.1 Törvényi Előírások, szabványok
 
- **Betartani az adatkezeléssel kapcsolatos törvényeket:
+  ### Betartani az adatkezeléssel kapcsolatos törvényeket:
   *  2013 évi L. törvény az állami és önkormányzati szervek elektronikus információbiztonságáról 1. § </br>
   *  A weboldal minden részének megfeleltetése a W3C szabványnak </br>
 
@@ -131,6 +131,8 @@ K07|V1.0|Feltölthetőségi funkció|Itt lehet a weboldalra videót és képet f
 ### 5.1 Funkcionális Terv
 
 
+
+![funkcionális terv](diagramm.png)
 
 
 ## Bejelentkezett felhasználó által elérhető funkciók
