@@ -17,16 +17,15 @@ A projekten 2 fő junior és 1 fő senior programozó dolgozik. Az ő feladatuk 
 A teszelés a 2 fő junior programozó feladata.</br>
 A projekt manager feladata, hogy felügyelje a munkafolyamatokat és betartassa a határidőket.
 
+Humán erőforrás
 
-### 2.3 Humán erőforrás
-
-- 2 fő junior programozó // felelőségi kör kidolgozása/megbeszélés
+- 2 fő junior programozó 
 - 1 fő senior programozó
 - 1 fő projekt manager
 - 1 fő Scrum master
 
 
-###  2.4 Ütemterv
+###  2.3 Ütemterv
 
 ID|Tevékenység|Időtartam-tól|Időtartam-ig|Függőség
 --|------|---|--------|------
@@ -39,9 +38,9 @@ ID|Tevékenység|Időtartam-tól|Időtartam-ig|Függőség
 7|Rendszerátadás és bevezetés|2021.03.22|2021.03.23||
 8|Projektzárás||2021.03.23||
 
-- Laravel keretrendszer alkalmazása
-- Regisztráció / bejelentkezési lehetőség
-- Adatbázis használata
+### 2.4 Mérföldkövek
+- A prototipus bemutatása
+- Az elkészült szoftver átadása
 
 ## 3.Üzleti folyamatok modellje
 
