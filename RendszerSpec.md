@@ -13,6 +13,11 @@ A scrum master feladata, hogy a folyamatosan kommunikáljon a csapat tagjaival, 
 
 ### 2.2 Projekt munkások és felelőségeik
 
+A projekten 2 fő junior és 1 fő senior programozó dolgozik. Az ő feladatuk hogy a frontend és a backend feladatok elvégzése.</br>
+A teszelés a 2 fő junior programozó feladata.</br>
+A projekt manager feladata, hogy felügyelje a munkafolyamatokat és betartassa a határidőket.
+
+
 ### 2.3 Humán erőforrás
 
 - 2 fő junior programozó // felelőségi kör kidolgozása/megbeszélés
