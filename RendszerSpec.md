@@ -124,6 +124,29 @@ K07|V1.0|Feltölthetőségi funkció|Itt lehet a weboldalra videót és képet f
 
   *  2013 évi L. törvény az állami és önkormányzati szervek elektronikus információbiztonságáról 1. § </br>
   *  A weboldal minden részének megfeleltetése a W3C szabványnak </br>
+  
+### Forgatókönyvek
+A weboldal megnyitásával megjelenik a kezdőoldal. Ezen a felületen a cég főbb emblémái jelennek meg és egy bejelentkezés valamint regisztrációs gomb.
+Az oldal minden egyéb funkciója a belépést követően elérhető alábbiak szerint:
+* Felhasználói profil beállítások
+* Dokumentumok, edzéstervek
+* Edzéssel, étrendel kapcsolatos videók
+* File feltöltés lehetősége
+
+A felhasználói profil beállításokban lehetőség van:
+* Felhasználónév módosítása
+* Email cím módosítása
+* Kétfaktoros hitelesítés
+* Felhasználói fiók törlése
+
+A dokumentumok, edzéstervek weblaprész alatt lehetőség van:
+* Szűrni szerző, feltöltési időpont alapján
+* Keresni szerzői név és dokumentum megnevezés alapján
+* Dokumentumok letöltése
+
+Videók weblaprész alatt lehetőség van:
+* Szűrni szerző, feltöltési időpont alapján
+* Keresni videó cím alapján
 
 ## 5 Funkcionális Specifikációk
 
