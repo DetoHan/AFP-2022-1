@@ -158,8 +158,11 @@ Videók weblaprész alatt lehetőség van:
 
 ### 5.2 Fizikai Környezet
 
-
-
+A megrendelt weboldal a Laravel 9 weboldalfejlesztői környezetbe fog elkészülni.</br>
+Az elkészítendő weboldal platform független, így bármely internettel és webböngészővel rendelkező hardware-rel elérhető lesz.</br>
+Az adatbázisba való regisztráláshoz, lekérdezéshez, módosításhoz illetve törléshez szükség lesz egy kliens alkalmazás fejlesztésére is,</br>
+amely C# nyelven, Visual Studio szoftverfejlesztői környezetben fog elkészülni.</br>
+Ennek az alkalmazásnak a futtatásához szükséges lesz valamely .net keretrendszerrel működő számítógép vagy laptop stb...
 
 ## Bejelentkezett felhasználó által elérhető funkciók
 - Tartalmak elérése
