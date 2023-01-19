@@ -175,7 +175,15 @@ Táblák:
         - name
         - author
         - date
-        
+
+### Felhasználói adatbázis modell
+
+![Egyed kapcsolat diagramm](database_diagramm.png)
+
+### A fájlfeltöltéshez kapcsolódó adatbázis modell
+
+![Egyed kapcsolat diagramm](files_diagramm.png)
+
 ## 5 Funkcionális Specifikációk
 
 ### 5.1 Funkcionális Terv
