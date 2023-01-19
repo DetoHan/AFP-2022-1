@@ -11,14 +11,17 @@ A cégünk kizárólag a weboldal és a hozzá kapcsolódó adatbázist készít
 A scrum master feladata, hogy a folyamatosan kommunikáljon a csapat tagjaival, illetve a sprint során</br>
 átlendítse a nehézségeken a projekten dolgozókat.
 
-### 2.2 Humán erőforrás
+### 2.2 Projekt munkások és felelőségeik
+
+### 2.3 Humán erőforrás
 
 - 2 fő junior programozó // felelőségi kör kidolgozása/megbeszélés
 - 1 fő senior programozó
 - 1 fő projekt manager
 - 1 fő Scrum master
 
-###  2.2 Ütemterv
+
+###  2.4 Ütemterv
 
 ID|Tevékenység|Időtartam-tól|Időtartam-ig|Függőség
 --|------|---|--------|------
