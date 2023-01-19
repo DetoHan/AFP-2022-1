@@ -55,13 +55,13 @@ A weboldalt azon sportolók használhatják ingyenesen, akik a megrendelő álta
 A weboldalra való belépés egy klasszikus login funkción keresztül történik. A belépés után megjelenik a weboldal tartalma ahol</br>
 a felhasználó megtekintheti a kívánt tartalmat.
 
-**üzleti folyamatok recepciós szemszögből:
+üzleti folyamatok recepciós szemszögből:
 
 * új sportoló regisztrálása
 * sportoló törlése
 * sportoló adatainak a módosítása
 
-**üzleti folyamat adminisztrációs jogal rendelkező egyén szemszögéből
+üzleti folyamat adminisztrációs jogal rendelkező egyén szemszögéből
 
 * új recepciós hozzáadása a rendszerhez
 * recepciós törlése a rendszerből
@@ -90,6 +90,29 @@ K07|V1.0|Feltölthetőségi funkció|Itt lehet a weboldalra videót és képet f
 
   *  2013 évi L. törvény az állami és önkormányzati szervek elektronikus információbiztonságáról 1. § </br>
   *  A weboldal minden részének megfeleltetése a W3C szabványnak </br>
+  
+  
+## 5 Funkcionális Specifikációk
+
+### 5.1 Funkcionális Terv
+
+
+
+![funkcionális terv](diagramm.png)
+
+## 6. Fizikai Környezet
+
+A megrendelt weboldal a Laravel 9 weboldalfejlesztői környezetbe fog elkészülni.</br>
+Az elkészítendő weboldal platform független, így bármely internettel és webböngészővel rendelkező hardware-rel elérhető lesz.</br>
+Az adatbázisba való regisztráláshoz, lekérdezéshez, módosításhoz illetve törléshez szükség lesz egy kliens alkalmazás fejlesztésére is,</br>
+amely C# nyelven, Visual Studio szoftverfejlesztői környezetben fog elkészülni.</br>
+Ennek az alkalmazásnak a futtatásához szükséges lesz valamely .net keretrendszerrel működő számítógép vagy laptop stb...
+
+## Bejelentkezett felhasználó által elérhető funkciók
+- Tartalmak elérése
+- File feltöltés / letöltés 
+- Saját profil adatainak szerkesztése
+  
   
 ## Képernyőtervek
 A képernyőtervek a figma software-el készülnek.
@@ -280,24 +303,5 @@ Szerepelhet benne kis és nagybetű, speciális karakter, számok. 1től 32 kara
 
 Amennyiben megfelelő eredményt kapunk, úgy a teszt jegyzőkönyben a feladat "success" eredmént kap, ellenkező esetben "failed" kimenetellel rögzítjük. Ezt követően a feljegyzett hibákat kijavítjuk és újabb teszteléseket végzünk.
 
-## 5 Funkcionális Specifikációk
 
-### 5.1 Funkcionális Terv
-
-
-
-![funkcionális terv](diagramm.png)
-
-### 5.2 Fizikai Környezet
-
-A megrendelt weboldal a Laravel 9 weboldalfejlesztői környezetbe fog elkészülni.</br>
-Az elkészítendő weboldal platform független, így bármely internettel és webböngészővel rendelkező hardware-rel elérhető lesz.</br>
-Az adatbázisba való regisztráláshoz, lekérdezéshez, módosításhoz illetve törléshez szükség lesz egy kliens alkalmazás fejlesztésére is,</br>
-amely C# nyelven, Visual Studio szoftverfejlesztői környezetben fog elkészülni.</br>
-Ennek az alkalmazásnak a futtatásához szükséges lesz valamely .net keretrendszerrel működő számítógép vagy laptop stb...
-
-## Bejelentkezett felhasználó által elérhető funkciók
-- Tartalmak elérése
-- File feltöltés / letöltés 
-- Saját profil adatainak szerkesztése
 
