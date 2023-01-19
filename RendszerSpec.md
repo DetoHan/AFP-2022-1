@@ -120,6 +120,11 @@ K05|V1.0|Regisztrációs felület létrehozása|Itt lehet a tagokat felvinni az 
 K06|V1.0|Jogosultsági felület létrehozása|Itt lehet a tagok egyébb jogosultságait módosítani az adatbázisban
 K07|V1.0|Feltölthetőségi funkció|Itt lehet a weboldalra videót és képet feltölteni
 
+### 4.1 Törvényi Előírások, szabványok
+
+ **Betartani az adatkezeléssel kapcsolatos törvényeket:
+  * 2013. évi L. törvény az állami és önkormányzati szervek elektronikus információbiztonságáról 1. §
+  * A weboldal minden részének megfeleltetése a W3C szabványnak
 
 ## Bejelentkezett felhasználó által elérhető funkciók
 - Tartalmak elérése
