@@ -46,7 +46,8 @@ ID|Tevékenység|Időtartam-tól|Időtartam-ig|Függőség
 
 ### 3.1 Üzleti szereplők
 
-
+A weboldalt azon sportolók használhatják ingyenesen, akik a megrendelő által üzemeltetett fittnesz terembe </br>
+érvényes bérlete van. Azoknak, akiknek nincs érvényes bérlete azoknak fizetni kell, ha meg szeretnék tekinteni a weboldal tartalmát.
 
 * spotoló
 * személyi edző
