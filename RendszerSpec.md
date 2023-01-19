@@ -161,6 +161,10 @@ Videók weblaprész alatt lehetőség van:
 * Szűrni szerző, feltöltési időpont alapján
 * Keresni videó cím alapján
 
+## Implementációs terv
+A felhasználói felület HTML, CSS, JavaScript és Laravel blade sablonrendszeri technológiák felhasználásával készülnek. 
+Mysql adabázist használunk az adatok tárolására. Visual studio code használata implementáláshoz.
+
 ## Adatbázis terv
 Táblák:
 - Felhasználó
@@ -196,10 +200,6 @@ Táblák:
 ### A fájlfeltöltéshez kapcsolódó adatbázis modell
 
 ![Egyed kapcsolat diagramm](files_diagramm.png)
-
-## Implementációs terv
-A felhasználói felület HTML, CSS, JavaScript és Laravel blade sablonrendszeri technológiák felhasználásával készülnek. 
-Mysql adabázist használunk az adatok tárolására.
 
 ### Tesztterv
 ### A teszteléshez 8 kisebb csoportra osztjuk a feladatokat
