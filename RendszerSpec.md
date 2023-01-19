@@ -7,7 +7,11 @@ A cégünk kizárólag a weboldal és a hozzá kapcsolódó adatbázist készít
 
 ## 2. Projekt terv
 ### 2.1 Projekt szerepkörök, felelőségek
-### 2.1 Humán erőforrás
+
+A scrum master feladata, hogy a folyamatosan kommunikáljon a csapat tagjaival, illetve a sprint során</br>
+átlendítse a nehézségeken a projekten dolgozókat.
+
+### 2.2 Humán erőforrás
 
 - 2 fő junior programozó // felelőségi kör kidolgozása/megbeszélés
 - 1 fő senior programozó
