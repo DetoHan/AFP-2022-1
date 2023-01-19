@@ -61,7 +61,12 @@ A weboldalt azon sportolók használhatják ingyenesen, akik a megrendelő álta
 * személyi edző idégnylése
 
 
-### 3.1 Jelenlegi üzleti folyamatok
+### 3.2 Üzleti folyamatok
+
+A weboldalra való belépés egy klasszikus login funkción keresztül történik. A belépés után megjelenik a weboldal tartalma ahol</br>
+a felhasználó megtekintheti a kívánt tartalmat.
+
+
 
 Felhasználói szemszögből:
 
