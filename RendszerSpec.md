@@ -67,62 +67,10 @@ a felhasználó megtekintheti a kívánt tartalmat.
 * recepciós törlése a rendszerből
 * jogosúltság beállítása
 
-Felhasználói szemszögből:
+### 3.3 Üzleti Entitások
 
-```mermaid
-flowchart TD;
-A("A sportoló vásárol egy edzőterem bérletet");
-B("A sportoló fizet egy személyi edzőknek \naz egyénileg meghatározott fizikai erőnlét elérésének elősegítéséhez");
-C("A személyi edzőnk felméri a sportolót \nés edzési tervet készít a korábban leegyeztetett cél elérése érdekében");
-D("Az edző feltölti a videókat és a tervezetet \negy általa szimpatikusnak választott webhelyre");
-A-->B;
-B-->C;
-C-->D;
-D-->A;
-```
-Adatbázis szemszögből:
-
-
-```mermaid
-flowchart TD;
-A("A sportoló vásárol egy edzőtermi bérletet");
-B("A recepciós felviszi az adatait a helyi adatbázsba");
-C("A sportoló csakis abba az edzőterembe járhat addíg amig le nem jár a bérlete");
-D("A tulajdonos csakis helyi riportot tud készíteni");
-A-->B;
-B-->C;
-C-->D;
-D-->A;
-```
-### 3.2 Igényelt üzleti folyamatok
-
-Felhasználói szemszögből
-
-```mermaid
-flowchart TD;
-A("A sportoló vásárol egy edzőterem bérletet");
-B("A sportoló fizet egy személyi edzőnknek \naz egyénileg meghatározott fizikai erőnlét elérésének elősegítéséhez");
-C("A személyi edzőnk felméri a sportolót \nés edzési tervet készít a korábban leegyeztetett cél elérése érdekében");
-D("Az edző feltölti a videókat és a tervezetet \naz egységes webfelületre");
-A-->B;
-B-->C;
-C-->D;
-D-->A;
-```
-Adatbázis szemszögből:
-
-```mermaid
-flowchart TD;
-A("A sportoló vásárol egy edzőtermi bérletet");
-B("A recepciós felviszi az adatait a központi adatbázsba");
-C("A sportoló abba az edzőterembe járhat amelyikbe szeretne, mert adatai központilag lekérdezhető");
-D("A tulajdonos teljes riportot készíthet, hiszen minden adat 1 helyen van.");
-A-->B;
-B-->C;
-C-->D;
-D-->A;
-```
-
+* napi jegy
+* bérlet
 
 ## 4.Követelménylista:
 
