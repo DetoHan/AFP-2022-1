@@ -148,6 +148,34 @@ Videók weblaprész alatt lehetőség van:
 * Szűrni szerző, feltöltési időpont alapján
 * Keresni videó cím alapján
 
+## Adatbázis terv
+Táblák:
+- Felhasználó
+	- táblanév: users
+	- mező nevek:
+        - ID
+        - name
+        - email
+        - password
+        
+- Browser sessions
+	- táblanév: session
+	- mező nevek:
+        - ID
+        - user_id
+        - ipaddress
+        - user_agent
+        - payload
+        - last activity
+
+- Dokumentumok
+	- táblanév: files
+	- mező nevek:
+        - ID
+        - name
+        - author
+        - date
+        
 ## 5 Funkcionális Specifikációk
 
 ### 5.1 Funkcionális Terv
