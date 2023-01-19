@@ -6,7 +6,7 @@ Egy olyan weboldal és hozzá kapcsolódó adatbázis elkészítése, amely alka
 A cégünk kizárólag a weboldal és a hozzá kapcsolódó adatbázist készíti el, a weboldalon későbbiekben megjelenő tartalom elkészítése nem a projekt része.</br>
 
 ## 2. Projekt terv
-
+### 2.1 Projekt szerepkörök, felelőségek
 ### 2.1 Humán erőforrás
 
 - 2 fő junior programozó // felelőségi kör kidolgozása/megbeszélés
