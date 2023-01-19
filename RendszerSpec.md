@@ -47,18 +47,7 @@ ID|Tevékenység|Időtartam-tól|Időtartam-ig|Függőség
 ### 3.1 Üzleti szereplők
 
 A weboldalt azon sportolók használhatják ingyenesen, akik a megrendelő által üzemeltetett fittnesz terembe </br>
-érvényes bérlete van. Azoknak, akiknek nincs érvényes bérlete azoknak fizetni kell, ha meg szeretnék tekinteni a weboldal tartalmát.
-
-* spotoló
-* személyi edző
-* alkalmazottak
-* tulajdonos
-
-Üzleti események:
-* napi jegy vásárlás
-* bérlet vásárlás
-* regisztráció
-* személyi edző idégnylése
+érvényes bérlete van. Azoknak, akiknek nincs érvényes bérlete azoknak fizetni kell, ha meg szeretnék tekinteni a weboldal tartalmát.</br>
 
 
 ### 3.2 Üzleti folyamatok
@@ -66,7 +55,17 @@ A weboldalt azon sportolók használhatják ingyenesen, akik a megrendelő álta
 A weboldalra való belépés egy klasszikus login funkción keresztül történik. A belépés után megjelenik a weboldal tartalma ahol</br>
 a felhasználó megtekintheti a kívánt tartalmat.
 
+**üzleti folyamatok recepciós szemszögből:
 
+* új sportoló regisztrálása
+* sportoló törlése
+* sportoló adatainak a módosítása
+
+**üzleti folyamat adminisztrációs jogal rendelkező egyén szemszögéből
+
+* új recepciós hozzáadása a rendszerhez
+* recepciós törlése a rendszerből
+* jogosúltság beállítása
 
 Felhasználói szemszögből:
 
