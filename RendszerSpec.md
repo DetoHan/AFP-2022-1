@@ -238,7 +238,7 @@ Szerepelhet benne kis és nagybetű, speciális karakter, számok. 1től 32 kara
 8. Bejelentkezett eszközök kiléptetése
 - Kiléptetés esetén szintén helyes jelszó megadása szükséges és a folyamat ezt követően futhat le.
 
-### 1. Dashboard weblaprész teszt
+### 9.1 Dashboard weblaprész teszt
 
 |Lépés|Feladat|
 |-----|-------|
@@ -252,7 +252,7 @@ Szerepelhet benne kis és nagybetű, speciális karakter, számok. 1től 32 kara
 |3.2  | "Log out" gombra kattintva kiléptet profilunkból és visszatérünk a bejelentkezés / regisztráció oldalra 
 |3.4  | Kijelentkezést követően "Login" , "register" gomb kattintható, megjeleníti a belépés / regisztráció weblaprészt 
 
-### 2. File feltöltés teszt
+### 9.2 File feltöltés teszt
 |Lépés|Feladat|
 |-----|-------|
 |1.   | Weboldal megjelenik 
@@ -262,7 +262,7 @@ Szerepelhet benne kis és nagybetű, speciális karakter, számok. 1től 32 kara
 |3.1  | "Kész" gombra kattintva kiírásra kerül a feltöltött titkosított file név a weblapon
 |3.2  | Feltöltést követően a file eltárolódik a storage --> app --> docs mappában
 
-### 3. Dokumentumok weblaprész teszt
+### 9.3 Dokumentumok weblaprész teszt
 
 |Lépés|Feladat|
 |-----|-------|
@@ -281,7 +281,7 @@ Szerepelhet benne kis és nagybetű, speciális karakter, számok. 1től 32 kara
 |1.4  | A megkapott kódot ha beírjuk helyesen a weboldal "Code" mezőjébe, akkor recovery kódokat szükséges látni valamint a disable gombot 
 |1.5  | A megkapott kód helytelen rögzítése esetén hibaüzenetet kapunk: "The provided two factor authentication code was invalid."
 
-### 5. Felhasználó bejelentkezés regisztráció teszt
+### 9.4 Felhasználó bejelentkezés regisztráció teszt
 |Lépés| Feladat |
 | --- | ------- | 
 |1.   | Weboldal megjelenik 
@@ -293,7 +293,7 @@ Szerepelhet benne kis és nagybetű, speciális karakter, számok. 1től 32 kara
 |4.1  | Helytelen e-mail cím kitöltése esetén hibaüzenet jelenik meg: "Kérjük írjon egy '@' karaktert e-mail címébe" 
 |4.2  | Rövid jelszó megadása esetén hibaüzenet jelenik meg: "The password must be at least 8 characters." 
 
-### 6. Felhasználó adatainak megváltoztatása teszt
+### 9.5 Felhasználó adatainak megváltoztatása teszt
 |Lépés| Feladat 
 | --- | ------- | 
 |1.   | Profile-gombra kattintva megjelennek a felhasználóval kapcsolatos beállítási lehetőségek 
@@ -302,7 +302,7 @@ Szerepelhet benne kis és nagybetű, speciális karakter, számok. 1től 32 kara
 |3.   | Jelszó megváltoztatása során ha rövid jelszót adunk meg "The password must be at least 8 characters."-üzenetet kapunk 
 |3.1  | Jelszó megváltoztatása során ha nem azonos a kétszer megadott jelszó, akkor hibaüzenet jelenik meg: "The password confirmation does not match."
 
-### 7. Felhasználói fiók törlése teszt
+### 9.6 Felhasználói fiók törlése teszt
 |Lépés| Feladat | 
 | --- | ------- | 
 |1.   | Delete account gomb megjelenik. 
@@ -310,7 +310,7 @@ Szerepelhet benne kis és nagybetű, speciális karakter, számok. 1től 32 kara
 |2.1  | Helytelen jelszó megadása esetén hibaüzenet jelenik meg: "This password does not match our records."  
 |2.2  | Helyes jelszó megadást követően kiléptet minket és átnavigál a weboldal az index.php-ra 
 
-### 8. Bejelentkezett felhasználók kiléptetése teszt
+### 9.7 Bejelentkezett felhasználók kiléptetése teszt
 |Lépés| Feladat | 
 | --- | ------- | 
 |1.   | Log out gomb megjelenik.
