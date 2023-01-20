@@ -112,6 +112,21 @@ A rendszergazdai jogosultsággal rendelkezők új dolgozót képesek felvinni a 
 
 ![használati eset](use_case.drawio.png)
 
+### 5.3 Képernyőtervek
+A képernyőtervek a figma software-el készülnek.
+
+Főbb oldalak:
+- **kezdolap**, amely minden felhasználó számára először jelenik meg.  
+
+- **belépés / regisztáció**. A kezdőlapon a kiválasztott gomb megnyomását követően érhetjük el.
+
+- **dashboard**, a már regisztrációval rendelkező és belépett felhasználóknak elérhető. Innen tudunk a weblap lényegesebb részeibe továbblépni(Feltöltés, dokumentumok letöltése, file-ok, videók)  
+
+- **dokumentumok**, file-ok felsorolva nevük és szerzőjük alapján elérhetőek és letölthetőek.   
+
+- **upload**, file-ok feltöltése az adatbázisba.  
+
+
 ## 6. Fizikai Környezet
 
 A megrendelt weboldal a Laravel 9 weboldalfejlesztői környezetbe fog elkészülni.</br>
@@ -126,19 +141,7 @@ Ennek az alkalmazásnak a futtatásához szükséges lesz valamely .net keretren
 - Saját profil adatainak szerkesztése
   
   
-## Képernyőtervek
-A képernyőtervek a figma software-el készülnek.
 
-Főbb oldalak:
-- **kezdolap**, amely minden felhasználó számára először jelenik meg.  
-
-- **belépés / regisztáció**. A kezdőlapon a kiválasztott gomb megnyomását követően érhetjük el.
-
-- **dashboard**, a már regisztrációval rendelkező és belépett felhasználóknak elérhető. Innen tudunk a weblap lényegesebb részeibe továbblépni(Feltöltés, dokumentumok letöltése, file-ok, videók)  
-
-- **dokumentumok**, file-ok felsorolva nevük és szerzőjük alapján elérhetőek és letölthetőek.   
-
-- **upload**, file-ok feltöltése az adatbázisba.  
 ### Forgatókönyvek
 A weboldal megnyitásával megjelenik a kezdőoldal. Ezen a felületen a cég főbb emblémái jelennek meg és egy bejelentkezés valamint regisztrációs gomb.
 Az oldal minden egyéb funkciója a belépést követően elérhető alábbiak szerint:
