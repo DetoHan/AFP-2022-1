@@ -135,35 +135,6 @@ Az adatbázisba való regisztráláshoz, lekérdezéshez, módosításhoz illetv
 amely C# nyelven, Visual Studio szoftverfejlesztői környezetben fog elkészülni.</br>
 Ennek az alkalmazásnak a futtatásához szükséges lesz valamely .net keretrendszerrel működő számítógép vagy laptop stb...
 
-## Bejelentkezett felhasználó által elérhető funkciók
-- Tartalmak elérése
-- File feltöltés / letöltés 
-- Saját profil adatainak szerkesztése
-  
-  
-
-### Forgatókönyvek
-A weboldal megnyitásával megjelenik a kezdőoldal. Ezen a felületen a cég főbb emblémái jelennek meg és egy bejelentkezés valamint regisztrációs gomb.
-Az oldal minden egyéb funkciója a belépést követően elérhető alábbiak szerint:
-* Felhasználói profil beállítások
-* Dokumentumok, edzéstervek
-* Edzéssel, étrendel kapcsolatos videók
-* File feltöltés lehetősége
-
-A felhasználói profil beállításokban lehetőség van:
-* Felhasználónév módosítása
-* Email cím módosítása
-* Kétfaktoros hitelesítés
-* Felhasználói fiók törlése
-
-A dokumentumok, edzéstervek weblaprész alatt lehetőség van:
-* Szűrni szerző, feltöltési időpont alapján
-* Keresni szerzői név és dokumentum megnevezés alapján
-* Dokumentumok letöltése
-
-Videók weblaprész alatt lehetőség van:
-* Szűrni szerző, feltöltési időpont alapján
-* Keresni videó cím alapján
 
 ## 7 Adatbázis terv
 Táblák:
