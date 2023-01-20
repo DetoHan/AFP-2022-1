@@ -52,20 +52,25 @@ A weboldalt azon sportolók használhatják ingyenesen, akik a megrendelő álta
 
 ### 3.2 Üzleti folyamatok
 
-A weboldalra való belépés egy klasszikus login funkción keresztül történik. A belépés után megjelenik a weboldal tartalma ahol</br>
-a felhasználó megtekintheti a kívánt tartalmat.
+A weboldalra való belépés egy klasszikus login funkción keresztül történik. Szükséges egy felhasználónév illetve egy jelszó megadása. </br>
+Amennyiben ez sikeres akkor, a felhasználó belép a weboldalra ellenkező esetben a belépés sikertelen.</br>
+A belépés után megjelenik a weboldal tartalma ahol a felhasználó megtekintheti a kívánt tartalmat.
 
 üzleti folyamatok recepciós szemszögből:
+
+Azon felhasználók (dolgozók), akiknek van jogosultsága új tagot regisztrálni az adatbázisba annak egy bővitett funkcióval ellátott oldal jelenik meg. 
 
 * új sportoló regisztrálása
 * sportoló törlése
 * sportoló adatainak a módosítása
+* napi jegyet vásárló személy hozzáadása
 
-üzleti folyamat adminisztrációs jogal rendelkező egyén szemszögéből
+Azon felhasználók akik redszergazdai vagy üzeltvezetői jogosultsággal rendelkeznek azoknak megjelenik az összes funkció
 
-* új recepciós hozzáadása a rendszerhez
-* recepciós törlése a rendszerből
-* jogosúltság beállítása
+* új dolgozó hozzáadása a rendszerhez
+* dolgozó törlése a rendszerből
+* jogosultság beállítása
+* dolgozói funkciók
 
 ### 3.3 Üzleti Entitások
 
@@ -85,16 +90,16 @@ K04|V1.0|Központi adatbázis létrehozása| Összes tag adatainak a tárolása
 K05|V1.0|Regisztrációs felület létrehozása|Itt lehet a tagokat felvinni az adatbázisba
 K06|V1.0|Jogosultsági felület létrehozása|Itt lehet a tagok egyébb jogosultságait módosítani az adatbázisban
 K07|V1.0|Feltölthetőségi funkció|Itt lehet a weboldalra videót és képet feltölteni
+K08|V1.0|Új dolgozó hozzáadás az adatbázisba|Az újonnan felvett dolgozó adatainak a felvitele az adatbázisba
+K09|V1.0|Dolgozó törlése az adatbázisból|Megszünt munkaviszony esetén a dolgozó törlése az adatbázisból
 
 ### 4.1 Törvényi Előírások, szabványok
 
   *  2013 évi L. törvény az állami és önkormányzati szervek elektronikus információbiztonságáról 1. § </br>
   *  A weboldal minden részének megfeleltetése a W3C szabványnak </br>
   
-  
-## 5 Funkcionális Specifikációk
 
-### 5.1 Funkcionális Terv
+### 5 Funkcionális Terv
 
 
 
