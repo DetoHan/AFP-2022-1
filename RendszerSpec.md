@@ -101,7 +101,7 @@ K09|V1.0|Dolgozó törlése az adatbázisból|Megszünt munkaviszony esetén a d
 
 ## 5 Funkcionális Terv
 
-### 5.2
+### 5.2 Rendszerhasználati esetek
 
 ![használati eset](use_case.drawio.png)
 
