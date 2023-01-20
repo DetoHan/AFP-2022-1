@@ -103,6 +103,11 @@ K09|V1.0|Dolgozó törlése az adatbázisból|Megszünt munkaviszony esetén a d
 
 ### 5.1 Rendszer szereplői
 
+A rendszerben két nagyobb csoport van jelen. Az egyik a bérlettel rendelkezők sportolók csoportja, a másik az adminisztrációt végzők csoportja.</br>
+A sportolók igénybe veszik az edzőterem illetve a weboldal szolgáltatásait, a dolgozók a sportoló adatait regisztrálják, módosítják és törlik.
+A rendszergazdai jogosultsággal rendelkezők új dolgozót képesek felvinni a rendszerbe, módosítani az eltárolt adatokat illetve törölni azokat. 
+
+
 ### 5.2 Rendszerhasználati esetek
 
 ![használati eset](use_case.drawio.png)
