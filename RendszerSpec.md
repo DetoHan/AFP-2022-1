@@ -165,11 +165,7 @@ Videók weblaprész alatt lehetőség van:
 * Szűrni szerző, feltöltési időpont alapján
 * Keresni videó cím alapján
 
-## Implementációs terv
-A felhasználói felület HTML, CSS, JavaScript és Laravel blade sablonrendszeri technológiák felhasználásával készülnek. 
-Mysql adabázist használunk az adatok tárolására. Visual studio code használata implementáláshoz.
-
-## Adatbázis terv
+## 7 Adatbázis terv
 Táblák:
 - Felhasználó
 	- táblanév: users
@@ -205,8 +201,15 @@ Táblák:
 
 ![Egyed kapcsolat diagramm](files_diagramm.png)
 
-### Tesztterv
-### A teszteléshez 8 kisebb csoportra osztjuk a feladatokat
+
+## 8 Implementációs terv
+A felhasználói felület HTML, CSS, JavaScript és Laravel blade sablonrendszeri technológiák felhasználásával készülnek. 
+Mysql adabázist használunk az adatok tárolására. Visual studio code használata implementáláshoz.
+
+
+
+## 9 Tesztterv
+### 9.1 A teszteléshez 8 kisebb csoportra osztjuk a feladatokat
 
 1. Dashboard weblaprész
 - Innen tudjuk elérni a weboldal főbb részeit. A gombok használata során teszteljük a helyes navigálást a weblaprészek között.
